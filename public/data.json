@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "title": "Nebula Citadel",
+    "imageUrl": "https://picsum.photos/seed/nebulacit/800/600",
+    "prompt": "A colossal space station orbiting a dying star, ringed by glowing nebula clouds in violet and amber, hyper-detailed hull plating, cinematic lighting",
+    "category": "Sci-Fi",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 412,
+    "downloads": 98,
+    "createdAt": "2025-04-29T08:14:00Z",
+    "tags": [
+      "space",
+      "station",
+      "nebula",
+      "cinematic",
+      "scifi"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pixel Samurai Dusk",
+    "imageUrl": "https://picsum.photos/seed/pixsamu/800/600",
+    "prompt": "16-bit pixel art samurai silhouetted against a blazing orange sunset on a mountain ridge, retro palette, animated falling leaves",
+    "category": "Pixel Art",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 287,
+    "downloads": 74,
+    "createdAt": "2025-04-28T17:30:00Z",
+    "tags": [
+      "samurai",
+      "pixel",
+      "retro",
+      "sunset",
+      "japan"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Elven Tide Market",
+    "imageUrl": "https://picsum.photos/seed/elvtide/800/600",
+    "prompt": "A floating elven marketplace above a turquoise ocean, crystal bridges, silk banners, enchanted lanterns, golden hour light rays",
+    "category": "Fantasy",
+    "model": "SDXL",
+    "resolution": "2048x1152",
+    "likes": 534,
+    "downloads": 131,
+    "createdAt": "2025-04-27T11:05:00Z",
+    "tags": [
+      "elf",
+      "market",
+      "ocean",
+      "fantasy",
+      "magic"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Rain Neon Alley",
+    "imageUrl": "https://picsum.photos/seed/rainneon/800/600",
+    "prompt": "Narrow rain-soaked cyberpunk alley at midnight, pink and cyan neon signs reflected in puddles, hooded figure, dense fog, 4K photorealistic",
+    "category": "Cyberpunk",
+    "model": "Stable Diffusion",
+    "resolution": "1920x1080",
+    "likes": 489,
+    "downloads": 117,
+    "createdAt": "2025-04-26T22:48:00Z",
+    "tags": [
+      "neon",
+      "rain",
+      "alley",
+      "night",
+      "cyberpunk"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Melting Clock Forest",
+    "imageUrl": "https://picsum.photos/seed/meltclk/800/600",
+    "prompt": "Dense forest where clock faces melt and drip from the branches like wax, soft purple mist, Salvador Dalí-inspired surrealism, dreamlike depth of field",
+    "category": "Surreal",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 361,
+    "downloads": 89,
+    "createdAt": "2025-04-25T14:20:00Z",
+    "tags": [
+      "surreal",
+      "clocks",
+      "forest",
+      "dali",
+      "dream"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pastel Grid Horizon",
+    "imageUrl": "https://picsum.photos/seed/pastgrid/800/600",
+    "prompt": "Infinite vaporwave grid plane receding to a pastel pink horizon with a giant sun, geometric palm trees, chrome lettering, synthwave aesthetic",
+    "category": "Vaporwave",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 298,
+    "downloads": 62,
+    "createdAt": "2025-04-24T09:55:00Z",
+    "tags": [
+      "vaporwave",
+      "grid",
+      "synthwave",
+      "pastel",
+      "retrowave"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Golden Hour Fisherman",
+    "imageUrl": "https://picsum.photos/seed/goldhour/800/600",
+    "prompt": "Elderly fisherman casting a line at golden hour, shallow depth of field, bokeh water surface, photorealistic portrait, warm tones, film grain",
+    "category": "Realistic",
+    "model": "SDXL",
+    "resolution": "2048x1365",
+    "likes": 223,
+    "downloads": 44,
+    "createdAt": "2025-04-29T06:10:00Z",
+    "tags": [
+      "portrait",
+      "fishing",
+      "golden-hour",
+      "realistic",
+      "film"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "White Void Arch",
+    "imageUrl": "https://picsum.photos/seed/wtvoidarch/800/600",
+    "prompt": "Single stone arch on an infinite white plane, harsh top light creating a perfect shadow ellipse, ultra-minimal composition, negative space",
+    "category": "Minimal",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 182,
+    "downloads": 38,
+    "createdAt": "2025-04-28T13:00:00Z",
+    "tags": [
+      "arch",
+      "minimal",
+      "shadow",
+      "white",
+      "geometry"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Clockwork Dirigible",
+    "imageUrl": "https://picsum.photos/seed/clkdiri/800/600",
+    "prompt": "Victorian steampunk dirigible assembled from brass gears and copper pipes, hovering over a smoggy industrial city at dawn, sepia and rust palette",
+    "category": "Steampunk",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 307,
+    "downloads": 72,
+    "createdAt": "2025-04-27T07:45:00Z",
+    "tags": [
+      "dirigible",
+      "brass",
+      "victorian",
+      "steampunk",
+      "airship"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Quantum Ghost Ship",
+    "imageUrl": "https://picsum.photos/seed/qghstshp/800/600",
+    "prompt": "Translucent ghost ship phasing through the rings of a gas giant, crew of luminous specters, deep purple and teal tones, sci-fi horror crossover",
+    "category": "Sci-Fi",
+    "model": "Stable Diffusion",
+    "resolution": "1920x1080",
+    "likes": 395,
+    "downloads": 93,
+    "createdAt": "2025-04-25T20:15:00Z",
+    "tags": [
+      "ghost",
+      "ship",
+      "space",
+      "horror",
+      "scifi"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Dungeon Crawler Sprite",
+    "imageUrl": "https://picsum.photos/seed/dungcraw/800/600",
+    "prompt": "Top-down pixel art dungeon room, torchlit stone walls, treasure chest, skeleton enemy, classic 8-bit RPG style, 64x64 sprite scale",
+    "category": "Pixel Art",
+    "model": "SDXL",
+    "resolution": "512x512",
+    "likes": 145,
+    "downloads": 55,
+    "createdAt": "2025-04-26T10:30:00Z",
+    "tags": [
+      "dungeon",
+      "rpg",
+      "pixel",
+      "sprite",
+      "8bit"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mirror Lake Witch",
+    "imageUrl": "https://picsum.photos/seed/mirwitch/800/600",
+    "prompt": "A cloaked witch kneeling beside a mirror-still forest lake at midnight, reflection shows a different world, moonlight through ancient oaks, ethereal mist",
+    "category": "Fantasy",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 471,
+    "downloads": 108,
+    "createdAt": "2025-04-24T23:00:00Z",
+    "tags": [
+      "witch",
+      "lake",
+      "forest",
+      "magic",
+      "moonlight"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Chrome Memory Leak",
+    "imageUrl": "https://picsum.photos/seed/chrmem/800/600",
+    "prompt": "Abstract surreal digital mind: chrome brain dissolving into floating data fragments and iridescent soap bubbles, infinite black void background",
+    "category": "Surreal",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 316,
+    "downloads": 67,
+    "createdAt": "2025-04-30T01:22:00Z",
+    "tags": [
+      "chrome",
+      "brain",
+      "abstract",
+      "surreal",
+      "data"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Neon Torii Gate",
+    "imageUrl": "https://picsum.photos/seed/neontor/800/600",
+    "prompt": "Traditional Japanese torii gate reimagined in holographic neon tubing, floating over a vaporwave sea, reflection ripples in magenta and cyan",
+    "category": "Vaporwave",
+    "model": "Stable Diffusion",
+    "resolution": "1920x1080",
+    "likes": 383,
+    "downloads": 85,
+    "createdAt": "2025-04-23T15:40:00Z",
+    "tags": [
+      "torii",
+      "japan",
+      "neon",
+      "vaporwave",
+      "holographic"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Bare Concrete Room",
+    "imageUrl": "https://picsum.photos/seed/bareconc/800/600",
+    "prompt": "Minimalist empty room, raw concrete walls, single rectangular window letting in a beam of diffused daylight, no furniture, architectural photography",
+    "category": "Minimal",
+    "model": "SDXL",
+    "resolution": "2048x1365",
+    "likes": 97,
+    "downloads": 28,
+    "createdAt": "2025-04-30T07:05:00Z",
+    "tags": [
+      "concrete",
+      "room",
+      "minimal",
+      "light",
+      "architecture"
+    ]
+  }
+]
