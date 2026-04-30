@@ -4,6 +4,7 @@ import Navbar from "@/components/shared/NavBar";
 
 import Footer from "@/components/shared/Footer";
 import Banner from "@/components/shared/Bannner";
+import TopZenaration from "@/components/shared/TopZenaration";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -20,8 +21,8 @@ export default function RootLayout({ children }) {
     <html lang="en" className={outfit.className}>
       <body className={outfit.className}>
         <Navbar />
-        <Banner />
-        <main> {children}</main>
+      
+        <main className="container mx-auto"> {children}</main>
         <Footer />
       </body>
     </html>
