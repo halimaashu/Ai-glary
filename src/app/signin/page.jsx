@@ -11,36 +11,37 @@ import {
   Label,
   TextField,
 } from "@heroui/react";
+import { Google_Sans } from "next/font/google";
+import { CgGoogle } from "react-icons/cg";
+import { GoOrganization } from "react-icons/go";
 
 export default function SignInPage() {
+  const handleGoogleSignin = async () => {
+    const data = await authClient.signIn.social({
+      provider: "google",
+    });
+  };
   const onSubmit = async (e) => {
     e.preventDefault();
 
+    const email = e.target.email.value;
+    const password = e.target.password.value;
 
+    const { data, error } = await authClient.signIn.email({
+      email: email, // required
+      password: password, // required
+      rememberMe: true,
+      callbackURL: "/",
+    });
 
-const email=e.target.email.value;
-const password=e.target.password.value;
-
-
-   const { data, error } = await authClient.signIn.email({
-    email: email, // required
-    password:password, // required
-    rememberMe: true,
-    callbackURL: "/",
-});
-
-    console.log(data,error,"from sign in pagesss-----")
+    console.log(data, error, "from sign in pagesss-----");
   };
 
   return (
-    <Card className="border mx-auto w-125 py-10 mt-5">
+    <Card className="border mx-auto w-1/2 py-10 mt-5 ">
       <h1 className="text-center text-2xl font-bold">Sign In</h1>
 
       <Form className="flex w-96 mx-auto flex-col gap-4" onSubmit={onSubmit}>
-       
-
-     
-
         <TextField
           isRequired
           name="email"
@@ -95,6 +96,10 @@ const password=e.target.password.value;
           </Button>
         </div>
       </Form>
+      <p className="text-xl text-center"> Or</p>
+      <Button onClick={handleGoogleSignin} className={"w-full"}>
+        <CgGoogle></CgGoogle> sing in with Google
+      </Button>
     </Card>
   );
 }
