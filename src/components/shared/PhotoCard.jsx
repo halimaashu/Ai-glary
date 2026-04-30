@@ -1,5 +1,6 @@
 import { Button, Card, Chip, Separator } from "@heroui/react";
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { CiSaveDown2 } from "react-icons/ci";
 import { FaHeart } from "react-icons/fa";
@@ -35,7 +36,9 @@ export default function PhotoCard({ photo }) {
           <p>{photo.downloads}</p>
         </div>
       </div>
+     <Link href={`/allPhoto/${photo.id}`}>
       <Button className="w-full">View Detail</Button>
+     </Link>
     </Card>
   );
 }
